@@ -1,0 +1,15 @@
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\bin\Debug\net6.0\Leetcode066.exe
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\bin\Debug\net6.0\Leetcode066.deps.json
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\bin\Debug\net6.0\Leetcode066.runtimeconfig.json
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\bin\Debug\net6.0\Leetcode066.dll
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\bin\Debug\net6.0\Leetcode066.pdb
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.csproj.AssemblyReference.cache
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.AssemblyInfoInputs.cache
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.AssemblyInfo.cs
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.csproj.CoreCompileInputs.cache
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.dll
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\refint\Leetcode066.dll
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.pdb
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\Leetcode066.genruntimeconfig.cache
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode066\obj\Debug\net6.0\ref\Leetcode066.dll
