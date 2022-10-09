@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode14\\Leetcode014.csproj": {}
+    "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode001\\Leetcode001.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode14\\Leetcode014.csproj": {
+    "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode001\\Leetcode001.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode14\\Leetcode014.csproj",
-        "projectName": "Leetcode014",
-        "projectPath": "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode14\\Leetcode014.csproj",
+        "projectUniqueName": "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode001\\Leetcode001.csproj",
+        "projectName": "Leetcode001",
+        "projectPath": "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode001\\Leetcode001.csproj",
         "packagesPath": "C:\\Users\\leo.kuang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode14\\obj\\",
+        "outputPath": "C:\\Users\\leo.kuang\\Documents\\LeetcodeTopQuestions\\LeetcodeTopQuestions\\Leetcode001\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leo.kuang\\AppData\\Roaming\\NuGet\\NuGet.Config",
