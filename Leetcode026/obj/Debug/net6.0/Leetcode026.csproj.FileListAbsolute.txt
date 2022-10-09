@@ -1,0 +1,15 @@
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\bin\Debug\net6.0\Leetcode026.exe
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\bin\Debug\net6.0\Leetcode026.deps.json
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\bin\Debug\net6.0\Leetcode026.runtimeconfig.json
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\bin\Debug\net6.0\Leetcode026.dll
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\bin\Debug\net6.0\Leetcode026.pdb
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.csproj.AssemblyReference.cache
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.AssemblyInfoInputs.cache
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.AssemblyInfo.cs
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.csproj.CoreCompileInputs.cache
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.dll
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\refint\Leetcode026.dll
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.pdb
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\Leetcode026.genruntimeconfig.cache
+C:\Users\leo.kuang\Documents\Leetcode\Leetcode\Leetcode026\obj\Debug\net6.0\ref\Leetcode026.dll
