@@ -19,7 +19,7 @@ namespace Leetcode020
 {
     public class Leetcode020
     {
-        public static void Main(int[] args)
+        public static void Main(string[] args)
         {
             var result = IsValid("()[]{}");
         }

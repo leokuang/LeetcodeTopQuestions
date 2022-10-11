@@ -1,0 +1,5 @@
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode020\obj\Debug\net6.0\Leetcode020.csproj.AssemblyReference.cache
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode020\obj\Debug\net6.0\Leetcode020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode020\obj\Debug\net6.0\Leetcode020.AssemblyInfoInputs.cache
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode020\obj\Debug\net6.0\Leetcode020.AssemblyInfo.cs
+C:\Users\leo.kuang\Documents\LeetcodeTopQuestions\LeetcodeTopQuestions\Leetcode020\obj\Debug\net6.0\Leetcode020.csproj.CoreCompileInputs.cache
