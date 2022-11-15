@@ -118,7 +118,7 @@ namespace Leetcode234
                 p2 = p2.next;
             }
 
-            RecursivelyCheck(secondHalfStart);
+            ReverseList(secondHalfStart);
 
             return result;
         }
