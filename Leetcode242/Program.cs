@@ -51,5 +51,46 @@ namespace Leetcode242
 
             return true;
         }
+
+        public static bool IsAnagram1(string s, string t) 
+        {
+            if (s.Length != t.Length)
+            {
+                return false;
+            }
+
+            var charDict = new Dictionary<char, int>();
+
+            for (var i = 0; i < s.Length; i++)
+            {
+                if (!charDict.ContainsKey(s[i]))
+                {
+                    charDict.Add(s[i], 1);
+                }
+                else
+                {
+                    charDict[s[i]]++;
+                }
+            }
+
+            for (int j = 0; j < t.Length; j++)
+            {
+                if (charDict.ContainsKey(t[j]))
+                {
+                    charDict[t[j]]--;
+                }
+                else
+                {
+                    return false;
+                }
+
+                if (charDict[t[j]] < 0)
+                {
+                    return false;
+                }
+            }
+
+            return true;
+        }
     }
 }
