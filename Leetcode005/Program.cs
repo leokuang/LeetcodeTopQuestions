@@ -20,6 +20,9 @@
    1 <= s.length <= 1000
    s consist of only digits and English letters.
  */
+
+using System.Text;
+
 namespace Leetcode005
 {
     internal class Program
@@ -138,6 +141,79 @@ namespace Leetcode005
             }
 
             return right - left - 1;
+        }
+
+        public static string LongestPalindrome3(string s)
+        {
+            var start = 0;
+            var end = -1;
+
+            var t = new StringBuilder("#");
+
+            for (var i = 0; i < s.Length; i++)
+            {
+                t.Append(s[i]);
+                t.Append("#");
+            }
+
+            t.Append("#");
+            s = t.ToString();
+
+            var arm_len = new List<int>();
+            var right = -1;
+            var j = -1;
+
+            for (var i = 0; i < s.Length; i++)
+            {
+                int cur_arm_len;
+
+                if (right >= i)
+                {
+                    var i_sym = j * 2 - i;
+                    var min_arm_len = Math.Min(arm_len[i_sym], right - i);
+                    cur_arm_len = Expand(s, i - min_arm_len, i + min_arm_len);
+                }
+                else
+                {
+                    cur_arm_len = Expand(s, i, i);
+                }
+
+                arm_len.Add(cur_arm_len);
+
+                if (i + cur_arm_len > right)
+                {
+                    j = i;
+                    right = i + cur_arm_len;
+                }
+
+                if (cur_arm_len * 2 + 1 > end - start)
+                {
+                    start = i - cur_arm_len;
+                    end = i + cur_arm_len;
+                }
+            }
+
+            var ans = new StringBuilder();
+            for (var i = start; i < end; i++)
+            {
+                if (s[i] != '#')
+                {
+                    ans.Append(s[i]);
+                }
+            }
+            return ans.ToString();
+
+        }
+
+        private static int Expand(string s, int left, int right)
+        {
+            while (left >= 0 && right < s.Length && s[left] == s[right])
+            {
+                left--;
+                right++;
+            }
+
+            return (right - left - 2) / 2;
         }
     }
 }
