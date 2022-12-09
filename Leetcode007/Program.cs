@@ -39,7 +39,7 @@ namespace Leetcode007
 
             while (x != 0)
             {
-                if (rev < int.MinValue / 10 || rev > int.MinValue / 10)
+                if (rev < int.MinValue / 10 || rev > int.MaxValue / 10)
                 {
                     return 0;
                 }
