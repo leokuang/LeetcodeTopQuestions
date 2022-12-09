@@ -81,7 +81,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode003", "Leetcode003\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode005", "Leetcode005\Leetcode005.csproj", "{0CEDAC1E-B3AA-408C-AA72-A2A9CA15C72C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leetcode007", "Leetcode007\Leetcode007.csproj", "{99FFD78F-DE3C-401F-AF7C-8155DD51BE98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leetcode007", "Leetcode007\Leetcode007.csproj", "{99FFD78F-DE3C-401F-AF7C-8155DD51BE98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Easy", "Easy", "{C12B5057-536C-42F3-872E-0529FB5C017E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Medium", "Medium", "{06CF0EF3-D6C6-4AB7-8711-01E732BE846C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hard", "Hard", "{ABF264C3-E374-4486-B30D-C4DB66C52D2C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
