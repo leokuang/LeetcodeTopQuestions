@@ -73,7 +73,7 @@ namespace Leetcode036
             var resule = IsValidSudoku(board);
         }
 
-        public static bool IsValidSudoku(char[,] board)
+        public static bool IsValidSudoku(char[][] board)
         {
             var rows = new int[9, 9];
             var columns = new int[9, 9];
@@ -83,7 +83,7 @@ namespace Leetcode036
             {
                 for (int j = 0; j < 9; j++)
                 {
-                    var c = board[i, j];
+                    var c = board[i][j];
                     if (c != '.')
                     {
                         var index = c - '0' - 1;
